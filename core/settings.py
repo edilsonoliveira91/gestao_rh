@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     #My apps
     'companies',
     'employee',
+    'departments',
 ]
 
 MIDDLEWARE = [
